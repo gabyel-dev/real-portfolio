@@ -156,7 +156,7 @@ export const WORKS = [
     title: "Cinematics",
     category: "CINEMATICS",
     duration: "0:35",
-    src: "/videos/professional-cinematic/Slow nituib effects.mp4",
+    src: "/videos/professional-cinematic/Slow motion effects.mp4",
     poster: "/videos/social-reels-pack.jpg",
   },
   {
