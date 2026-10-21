@@ -91,7 +91,7 @@ export const WORKS = [
     title: "Content Creation",
     category: "Contents",
     duration: "2:53",
-    src: "/videos/content-creation/COD 3 file 1.mp4",
+    src: "/videos/content-creation/Cod 3 file 1.mp4",
     poster: "/videos/Drone Shot",
   },
   {
