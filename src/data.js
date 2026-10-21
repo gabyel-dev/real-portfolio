@@ -17,7 +17,7 @@ export const TICKER_ITEMS = [
 ];
 
 export const STATS = [
-  { value: "01", suffix: "+", label: "Years Experience" },
+  { value: "03", suffix: "+", label: "Years Experience" },
   { value: "06", suffix: "+", label: "Core Skills" },
   { value: "100", suffix: "%", label: "Remote Ready" },
 ];
